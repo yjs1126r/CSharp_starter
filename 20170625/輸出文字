@@ -1,0 +1,8 @@
+  
+	大寶窟：System(.NET裡面已有的)、HelloWorld(自己製作的)
+	中寶窟(兩層的)：Collections、Linq、Text、Threading
+	小寶窟(三層的)：Generic、Tasks
+	寶藏：Program(class表示自定義)、Console(無class表示從.NET裡取得)
+	方法(後面有括號的都是method方法)：Main(？)、WriteLine(出現文字)、ReadKey(離開方式)
+備註：
+	淺灰標示還未用到該寶窟，例如Console用到的是System大寶窟，Generic、Linq等中、小寶窟尚未取用
